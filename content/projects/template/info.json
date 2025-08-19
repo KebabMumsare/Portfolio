@@ -1,0 +1,17 @@
+{
+    "title": "My Amazing Project",
+    "description": "A web application that solves real-world problems with modern technology.",
+    "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+    ],
+    "github": "https://github.com/username/myproject",
+    "date": "2024-01-15",
+    "category": "Web Development",
+    "media": [
+        "screenshot.png", 
+        "screenshot2.png", 
+        "screenshot3.png"
+    ]
+}

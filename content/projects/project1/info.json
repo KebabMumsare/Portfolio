@@ -1,0 +1,9 @@
+{
+    "title": "SchoolKeeper",
+    "description": "SchoolKeeper är en webbapp som skapades för att hjälpa lärare och elever att hantera skolans verksamhet.",
+    "technologies": ["Vue.js", "Node.js", "MongoDB", "Express", "JavaScript"],
+    "github": "https://github.com/KebabMumsare/Schoolkeeper",
+    "date": "2024-01-15",
+    "category": "Web Development",
+    "media": ["screenshot.png", "screenshot2.png", "screenshot3.png"]
+}
